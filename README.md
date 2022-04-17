@@ -1,8 +1,20 @@
 # safesense
 
-A new Flutter project.
+User Interface Component of a tool to detect falls, recieve user validation, output attention drawing sound, and untimately help users with poor balance/falling issues.
 
 ## Getting Started
+
+Clone the repo and run either: 
+* Terminal: 'flutter pub get', or 
+* VScode: Command + Shift + P > 'flutter: Get Packages'
+
+Run the application from lib/main.dart by executing: 
+* Termimal: flutter run
+* VScode: f5 , or clicking the 'Run Debugger' button
+
+Please be patient, Flutter takes 1-2 minutes to launch
+
+## Default Flutter ReadMe Things
 
 This project is a starting point for a Flutter application.
 
